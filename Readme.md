@@ -1,4 +1,4 @@
-# Movie Ratings Data analyis
+# Movie Ratings Data analyisxd
 
 ## Context
 In October 2015, Walt Hickey from FiveThirtyEight published a popular article where he presented strong evidence that suggests that Fandango's movie rating system was biased and dishonest. In this project, we'll analyze more movie ratings data to determine whether there was any change in Fandango's rating system following Hickey's analysis.
